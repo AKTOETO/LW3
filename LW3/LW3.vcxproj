@@ -144,6 +144,7 @@
   <ItemGroup>
     <Text Include="tests\correct\test2.txt" />
     <Text Include="tests\correct\test3.txt" />
+    <Text Include="tests\correct\test4.txt" />
     <Text Include="tests\incorrect\test8.txt" />
     <Text Include="tests\incorrect\test9.txt" />
     <Text Include="tests\warning\test2.txt" />

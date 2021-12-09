@@ -33,6 +33,7 @@
     <Text Include="tests\correct\test3.txt" />
     <Text Include="tests\incorrect\test8.txt" />
     <Text Include="tests\incorrect\test9.txt" />
+    <Text Include="tests\correct\test4.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\.gitignore" />
